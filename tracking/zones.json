@@ -1,0 +1,13 @@
+{
+  "camera": "Cam-01",
+  "frame_size": [
+    1280,
+    720
+  ],
+  "restricted_zones": [],
+  "lane_lines": [],
+  "road_directions": [],
+  "congestion_zones": [],
+  "ignore_zones": [],
+  "calibration": null
+}
