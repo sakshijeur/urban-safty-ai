@@ -1,0 +1,26 @@
+# Exact class names (shared format - do NOT change without the whole team)
+# Order = class id used in training.
+names:
+  - car
+  - bike
+  - bus
+  - truck
+  - auto
+  - ambulance
+  - fire_truck
+  - police
+  - person
+
+# Per-class confidence (lower for small / rare classes)
+conf:
+  car: 0.35
+  bike: 0.30
+  bus: 0.35
+  truck: 0.35
+  auto: 0.30
+  ambulance: 0.30
+  fire_truck: 0.30
+  police: 0.30
+  person: 0.25
+
+emergency: [ambulance, fire_truck, police]

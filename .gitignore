@@ -27,3 +27,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Include the trained Member 1 model
+!models/best.pt

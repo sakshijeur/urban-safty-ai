@@ -1,0 +1,13 @@
+# Member 3 / 4 keep ALL thresholds here (no hard-coded numbers in code)
+near_miss:
+  ttc_high_s: 1.0
+  ttc_medium_s: 2.0
+  min_distance_m: 2.0
+sudden_brake:
+  decel_ms2: 4.0
+  frames: 4
+wrong_side:
+  angle_deg: 135
+  consecutive_frames: 15
+alerts:
+  cooldown_s: 5
