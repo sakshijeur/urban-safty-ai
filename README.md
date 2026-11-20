@@ -128,3 +128,13 @@ python main.py
 
 ## 📄 License
 This project is developed for educational and research purposes under the Urban Safety AI Initiative.
+
+---
+
+## 🎥 Project Videos
+
+The sample and testing videos used for the AI-Based Urban Road Safety & Traffic Intelligence System are available on Google Drive.
+
+**Download Videos:**
+
+[Click here to access videos.zip](https://drive.google.com/file/d/1O7MrNud27YwMpHu6sYzztzU1pLKEiLdP/view?usp=sharing)
