@@ -138,3 +138,19 @@ The sample and testing videos used for the AI-Based Urban Road Safety & Traffic 
 **Download Videos:**
 
 [Click here to access videos.zip](https://drive.google.com/file/d/1O7MrNud27YwMpHu6sYzztzU1pLKEiLdP/view?usp=sharing)
+
+---
+
+## 📂 Project Dataset
+
+The final merged and annotated dataset used for training and evaluating the YOLO model is available on Google Drive.
+
+**Dataset Details:**
+- Dataset: `dataset_test`
+- Format: YOLO
+- Split: 80% Training, 10% Validation, 10% Testing
+- Classes: 9
+
+**Download Dataset:**
+
+[Click here to download dataset_test.zip](https://drive.google.com/file/d/1TZOqtF6QqCv2XNwn8onrv2sHyME5ALiL/view?usp=sharing)
